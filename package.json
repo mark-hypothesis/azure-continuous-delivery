@@ -1,0 +1,16 @@
+{
+  "name": "azure-hello-world-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "engines": {
+    "node": "6.10.0",
+    "npm": "3.10.10"
+  },
+  "author": "",
+  "license": "ISC"
+}
